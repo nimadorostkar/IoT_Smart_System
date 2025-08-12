@@ -1,0 +1,16 @@
+Item,Category,Qty,Unit Cost (USD),Extended (USD)
+MCU (ESP32-S3),BOM,1,12.50,=Qty*Unit Cost (USD)
+Zigbee/LoRa Module,BOM,1,10.00,
+Sensors (avg),BOM,3,4.00,
+PCB (4-layer 100x80),Fabrication,1,2.50,
+Assembly (SMT+TH),Labor,1,3.20,
+Test (ICT+FCT+Burn-in),Labor,1,1.50,
+Enclosure + Label + Screws,Packaging,1,4.00,
+Power Adapter + Cable,Accessories,1,3.50,
+Logistics (per unit),Logistics,1,2.00,
+Overhead Allocation,Overhead,1,3.00,
+COGS (sum),Summary,,,
+MSRP,Pricing,,279.00,
+Channel Margin (%),Pricing,,25%,
+Gross Margin (%),Pricing,,,
+Notes,Text,,,Use spreadsheet for formulas
