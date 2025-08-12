@@ -1,0 +1,45 @@
+Category,Part Number,Description,Manufacturer,Quantity,Unit Price (USD),Total Price (USD),Supplier,Notes
+MCU/Gateway,ESP32-S3-WROOM-1,WiFi 6 + Zigbee MCU,Espressif,1,12.50,12.50,Digikey,Main controller
+MCU/Gateway,Raspberry Pi 4 Model B,4GB RAM Gateway,Raspberry Pi Foundation,1,75.00,75.00,Element14,Video processing gateway
+Communication,ESP32-C6-WROOM-1,Zigbee 3.0 + WiFi 6,Espressif,5,8.50,42.50,Mouser,Sensor nodes
+Communication,SX1276 LoRa Module,433MHz LoRa transceiver,Semtech,2,18.00,36.00,AliExpress,Long range communication
+Communication,nRF52840 Module,Thread + Zigbee + BLE,Nordic Semiconductor,2,28.00,56.00,Digikey,Advanced mesh networking
+Sensors,SHT30-DIS-B,Temperature/Humidity I2C,Sensirion,5,4.20,21.00,Mouser,±0.2°C accuracy
+Sensors,BMP280,Pressure sensor,Bosch,2,2.50,5.00,Digikey,Barometric pressure
+Sensors,BME688,Environmental sensor,Bosch,1,12.80,12.80,Mouser,Air quality (VOC/Gas)
+Sensors,BH1750FVI,Light sensor I2C,Rohm,3,1.80,5.40,AliExpress,Ambient light
+Sensors,MAX4466,Microphone amplifier,Maxim,2,3.50,7.00,Digikey,Sound level detection
+Motion,HC-SR501,PIR Motion sensor,Generic,3,2.20,6.60,AliExpress,Basic motion detection
+Motion,RCWL-0516,Microwave motion sensor,Generic,2,3.80,7.60,AliExpress,Through-wall detection
+Motion,LD2410,24GHz mmWave radar,HiLink,1,16.50,16.50,AliExpress,Presence detection
+Camera,ESP32-CAM,2MP WiFi camera,AI-Thinker,2,9.50,19.00,AliExpress,Basic surveillance
+Camera,Pi Camera Module V3,12MP autofocus,Raspberry Pi Foundation,1,25.00,25.00,Element14,High quality imaging
+Camera,Logitech C920,1080p USB webcam,Logitech,1,65.00,65.00,Amazon,Professional streaming
+Actuators,Sonoff Basic R3,WiFi smart switch,ITEAD,3,6.50,19.50,AliExpress,AC load control
+Actuators,ESP32 Relay Module,Smart relay 12V/5A,Generic,2,10.00,20.00,AliExpress,DC load control
+Actuators,TRIAC Dimmer Module,AC dimmer 300W,Generic,1,15.00,15.00,AliExpress,Light dimming
+Power,Solar Panel 6V 2W,Polycrystalline panel,Generic,2,10.00,20.00,AliExpress,Renewable energy
+Power,18650 Battery 2500mAh,Li-ion rechargeable,Samsung,5,6.50,32.50,Battery Junction,Energy storage
+Power,TP4056 Charger Module,Li-ion charger with protection,Generic,5,1.50,7.50,AliExpress,Battery management
+Power,AMS1117-3.3,3.3V voltage regulator,AMS,5,0.80,4.00,AliExpress,Power conversion
+Power,12V 2A AC Adapter,Wall mount power supply,Generic,1,12.00,12.00,Amazon,Main power source
+Display,0.96" OLED Display,128x64 I2C OLED,Generic,2,8.50,17.00,AliExpress,Local status display
+Display,2.4" TFT LCD,240x320 SPI display,Generic,1,15.00,15.00,AliExpress,Touch interface
+Storage,MicroSD Card 32GB,Class 10 storage,SanDisk,2,8.00,16.00,Amazon,Data logging
+Connectivity,Ethernet Module W5500,SPI Ethernet controller,WIZnet,1,12.00,12.00,Digikey,Wired networking
+Passive,Resistor Kit,0805 SMD 1% 1/8W,Generic,1,15.00,15.00,AliExpress,Various values
+Passive,Capacitor Kit,0805 SMD ceramic,Generic,1,12.00,12.00,AliExpress,Decoupling/filtering
+Passive,Inductor Kit,SMD power inductors,Generic,1,10.00,10.00,AliExpress,Power filtering
+PCB,Custom PCB 4-layer,100x80mm PCB,JLCPCB,1,25.00,25.00,JLCPCB,Main board
+Enclosure,ABS Enclosure IP65,Weatherproof housing,Generic,1,18.00,18.00,AliExpress,Outdoor protection
+Connectors,JST-XH Connector Kit,2-8 pin connectors,JST,1,20.00,20.00,Digikey,Modular connections
+Connectors,USB-C Connector,Programming/power port,Generic,2,2.50,5.00,AliExpress,Modern connectivity
+Antenna,2.4GHz PCB Antenna,WiFi/Zigbee antenna,Generic,5,1.20,6.00,AliExpress,Wireless communication
+Antenna,433MHz Spring Antenna,LoRa external antenna,Generic,2,3.00,6.00,AliExpress,Long range
+Tools,Programmer ESP32,USB-UART bridge,Generic,1,8.00,8.00,AliExpress,Development tool
+Tools,Multimeter,Digital multimeter,Generic,1,35.00,35.00,Amazon,Testing equipment
+Misc,Jumper Wires,Male-Female dupont,Generic,1,5.00,5.00,AliExpress,Prototyping
+Misc,Breadboard,Half-size breadboard,Generic,2,3.00,6.00,AliExpress,Testing/prototyping
+Misc,Heat Shrink Tubing,Assorted sizes,Generic,1,8.00,8.00,AliExpress,Wire protection
+Misc,Solder Wire,63/37 rosin core,Generic,1,12.00,12.00,Amazon,Assembly
+TOTAL,,,,,,819.40,,
