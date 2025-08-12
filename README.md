@@ -125,8 +125,6 @@ MIT (در صورت نیاز تغییر دهید)
 - اسناد: `docs/`
 
 
-
--------
 <hr>
 
 IoT Smart System is a full-stack solution for building and operating robust IoT products across smart homes, smart agriculture, and remote surveillance. It combines low-latency data ingestion (MQTT/TLS), reliable device control, secure OTA, and live video streaming (WebRTC/RTSP) with a modern web dashboard and mobile app. The system is designed to be scalable, secure, and maintainable from prototype to mass production.
