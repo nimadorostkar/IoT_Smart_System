@@ -5,6 +5,7 @@
  * این مدل اطلاعات دستگاه‌های IoT را ذخیره می‌کند
  */
 
+
 const mongoose = require('mongoose');
 
 const deviceSchema = new mongoose.Schema({
@@ -354,3 +355,5 @@ deviceSchema.statics.getStatistics = function() {
 const Device = mongoose.model('Device', deviceSchema);
 
 module.exports = { Device, deviceSchema };
+
+
